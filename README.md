@@ -1,4 +1,4 @@
-# lejosRobot-code
+# 1st Place Autonomous Robot Competition (McGill Winter 2015)
 
 Robot project for McGill DPM Class ECSE
 1st place robot competition
