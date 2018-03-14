@@ -6,7 +6,7 @@ and travel to a desired location while avoiding obstacles.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3wffSdQt120/0.jpg)](https://www.youtube.com/watch?v=3wffSdQt120)
 
-[linkname](https://www.youtube.com/watch?v=3wffSdQt120&feature=youtu.be)
+[YouTube link](https://www.youtube.com/watch?v=3wffSdQt120&feature=youtu.be)
 
 
 ![Project Poster](overview.png)
